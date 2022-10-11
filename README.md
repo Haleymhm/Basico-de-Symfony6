@@ -20,7 +20,7 @@ Tener instalado PHP 8.0 o superior,  Mysql 5.6 o superior, composer
     ```
 4. Crear la base de datos e importar la estructura desde el archivo Estructura_db.sql
     ``` 
-    1.- Editar el archivo **.env** y colocar los datos de conecion a su servidor de base de datos
+    1.- Editar el archivo __ .env __ y colocar los datos de conecion a su servidor de base de datos
     2.- 
     composer install
     ```
